@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c159dd-212b-4e10-83e8-004c74251ef1" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/VirtualWalletApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/controller/VirtualWalletController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/controller/dto/VirtualWalletDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/controller/dto/VirtualWalletTransactionDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/controller/request/VirtualWalletRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/enums/TransactionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/exception/NoSufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/repository/VirtualWalletRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/repository/VirtualWalletTransactionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/repository/entity/VirtualWalletEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/repository/entity/VirtualWalletTransactionEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/service/VirtualWalletService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/virtual/wallet/service/bo/VirtualWalletBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ch/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2g0T6LFQ5rxuka2OwBtOl0N6kss" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -49,7 +36,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/hb21606/code/learn/virtual-wallet/src/main/java/com/ch/virtual/wallet",
+    "last_opened_file_path": "/Users/hb21606/code/learn/virtual-wallet",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.27126437",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
